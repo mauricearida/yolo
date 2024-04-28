@@ -1,6 +1,6 @@
 # path to your train and validation data
-train: ./data/train/images
-val: ./data/valid/images
+train: /content/drive/MyDrive/train
+val: /content/drive/MyDrive/valid
 
 # number of classes
 nc: 124
